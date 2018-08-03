@@ -78,7 +78,9 @@ cmd 창에 아래와 같이 입력해 보자.
 
 2) 온라인 저장소 만들기 (이미 GitHub에서 repository 만드신 분은 점프하세요!)
 
-![](.images/git1_1.png)  
+```
+<img src="/images/git1_1.png" alt="">
+```
 
 
 
