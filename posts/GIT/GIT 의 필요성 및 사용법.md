@@ -84,7 +84,7 @@ cmd 창에 아래와 같이 입력해 보자.
 
 눌리고 들어가면 우측 상단에 **NEW** 를 눌러주고 repository를 만든다. (아래는 예시)
 
-![](.images/git1_2.png)
+![Alt text](/images/git1_2.png)
 
 Repository name은 프로젝트 명이나 각자의 목적에 맞게 적어주면 된다. 최상위 폴더명이라 생각하면 쉽게 이해될 것 같다.
 
