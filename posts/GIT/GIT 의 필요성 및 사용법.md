@@ -30,19 +30,19 @@ GitHub 은 Local에서 작업한 Git의 내용을 원격으로 저장할 저장�
 
 ### 1. GIT 설치 & 업데이트 - Windows 기준
 
-1) 아래 링크에서 자신의 OS 환경에 맞게 다운로드 한다.
+##### 1) 아래 링크에서 자신의 OS 환경에 맞게 다운로드 한다.
 
 https://git-scm.com/downloads  
 
 <br>
 
-2) 설치 옵션은 Windows 의 경우 아래 참고하면 된다.
+##### 2) 설치 옵션은 Windows 의 경우 아래 참고하면 된다.
 
 http://igotit.tistory.com/entry/Git-%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-%EC%84%A4%EC%B9%98  
 
 <br>
 
-3) 이미 설치되어 있고 업데이트가 필요하다면 cmd 창에서(Windows 키 + r 눌러서 cmd 입력하면  cmd 창 열림) 아래와 같이 입력한다.  
+##### 3) 이미 설치되어 있고 업데이트가 필요하다면 cmd 창에서(Windows 키 + r 눌러서 cmd 입력하면  cmd 창 열림) 아래와 같이 입력한다.  
 
 >  c: ~ ~ >git --version						# git version 확인
 
@@ -137,6 +137,8 @@ myproject directory에 메모장 파일이나 버전관리하고 싶은 소스�
 > c:/dev/myproject>**git remote add origin https://github.com/깃헙유저이름/repository이름.git**      # remote(원격지에) add(git 저장소 추가하려는데) origin(위치는) https://~~ 주소로 하겠다 정도로 이해하고 넘어가자.
 
 > c:/dev/myproject>**git remote -v**      #  -v : verbose(장황한, 상세한)의 줄임말, 여기서는 로컬 저장소가 통신할 원격 저장소가 어떤 것인지 보여준다. remote 설정해준 github 주소가 뜰 것이다.
+
+<br>
 
 ##### 6) 로컬 저장소에 저장된 변경사항(commit 했던 내용들)을 GitHub 으로 업로드 하기
 
